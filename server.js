@@ -15,6 +15,6 @@ console.log('merge test')
   
 
   http.listen(port,host,function(){
-      console.log('your app is running at port 9000')
+      console.log('now your app is running at port 9000')
  })
 >>>>>>> 0cb4e9fad1b561ccb62c86c309ef208a64622605
